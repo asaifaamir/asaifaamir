@@ -23,12 +23,12 @@ Azure · Microsoft Fabric · Power BI Service
 📊 BI dashboards built on real public datasets  
 🏗️ Data architecture and modeling case studies  
 ⚙️ Automation scripts and reusable utilities  
-📋 Consulting project write-ups (anonymized)  
+📋 Consulting project write-ups
 
 ## Background
 
 Currently building and owning enterprise BI infrastructure 
-supporting a $792B+ loan servicing portfolio at Lakeview Loan 
+supporting a $700B+ loan servicing portfolio at Lakeview Loan 
 Servicing. Previously at Deloitte on government healthcare 
 technology engagements.
 
